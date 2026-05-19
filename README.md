@@ -1,0 +1,2 @@
+# Pedrojoop
+Script para roblox 
